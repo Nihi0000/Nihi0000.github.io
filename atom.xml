@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-09-07T05:40:26.801Z</updated>
+  <updated>2022-09-07T13:57:37.662Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,35 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>test_my_site</title>
-    <link href="http://example.com/2022/09/07/test-my-site/"/>
-    <id>http://example.com/2022/09/07/test-my-site/</id>
-    <published>2022-09-07T05:40:26.000Z</published>
-    <updated>2022-09-07T05:40:26.801Z</updated>
+    <title>星</title>
+    <link href="http://example.com/2022/09/07/%E6%98%9F/"/>
+    <id>http://example.com/2022/09/07/%E6%98%9F/</id>
+    <published>2022-09-07T06:55:56.000Z</published>
+    <updated>2022-09-07T13:57:37.662Z</updated>
     
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://example.com/2022/09/06/hello-world/"/>
-    <id>http://example.com/2022/09/06/hello-world/</id>
-    <published>2022-09-06T13:55:54.289Z</published>
-    <updated>2022-09-06T13:55:18.279Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<center>我该向你投诚吗</center><center>一颗星对另一颗星</center><center>一团飘渺被压缩了</center><center>一颗星对另一颗星</center><center>压缩 呼吸 剥夺 散逸</center><center>这不是好的投诚方法</center><center>一颗星对一团飘渺</center><p align="right">202209070742</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;center&gt;我该向你投诚吗&lt;/center&gt;
+
+&lt;center&gt;一颗星对另一颗星&lt;/center&gt;
+
+&lt;center&gt;一团飘渺被压缩了&lt;/center&gt;
+
+&lt;center&gt;一颗星对另一颗星&lt;/center&gt;
+
+&lt;center&gt;压缩 呼吸 剥夺 散逸&lt;/center&gt;
+
+&lt;ce</summary>
       
     
     
     
+    
+    <category term="文字" scheme="http://example.com/tags/%E6%96%87%E5%AD%97/"/>
     
   </entry>
   
