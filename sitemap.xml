@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://nihi0000.github.io/2022/10/26/19/18/%E5%B1%B1%E4%BA%91/</loc>
+    
+    <lastmod>2022-10-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://nihi0000.github.io/2022/10/21/23/26/%E7%9F%AD%E7%AF%87-%E6%88%91%E4%BB%AC%E7%BB%A7%E7%BB%AD%E8%B5%B0%E7%9D%80.1/</loc>
     
     <lastmod>2022-10-24</lastmod>
@@ -382,7 +391,7 @@
 
   <url>
     <loc>https://nihi0000.github.io/</loc>
-    <lastmod>2022-10-24</lastmod>
+    <lastmod>2022-10-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -390,28 +399,28 @@
   
   <url>
     <loc>https://nihi0000.github.io/tags/%E6%96%87%E5%AD%97/</loc>
-    <lastmod>2022-10-24</lastmod>
+    <lastmod>2022-10-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://nihi0000.github.io/tags/%E5%B0%8F%E8%AE%B0/</loc>
-    <lastmod>2022-10-24</lastmod>
+    <lastmod>2022-10-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://nihi0000.github.io/tags/%E7%9F%AD%E7%AF%87/</loc>
-    <lastmod>2022-10-24</lastmod>
+    <lastmod>2022-10-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://nihi0000.github.io/tags/%E9%9A%8F%E6%84%9F/</loc>
-    <lastmod>2022-10-24</lastmod>
+    <lastmod>2022-10-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
