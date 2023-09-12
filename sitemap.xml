@@ -893,20 +893,6 @@
 
   
   <url>
-    <loc>https://nihi0000.github.io/tags/splinters/</loc>
-    <lastmod>2023-09-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://nihi0000.github.io/tags/%E6%A2%A6/</loc>
-    <lastmod>2023-09-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://nihi0000.github.io/tags/%E6%97%A5%E8%AE%B0/</loc>
     <lastmod>2023-09-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -922,6 +908,20 @@
   
   <url>
     <loc>https://nihi0000.github.io/tags/%E8%AF%97/</loc>
+    <lastmod>2023-09-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://nihi0000.github.io/tags/splinters/</loc>
+    <lastmod>2023-09-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://nihi0000.github.io/tags/%E6%A2%A6/</loc>
     <lastmod>2023-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
