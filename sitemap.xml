@@ -1065,13 +1065,6 @@
   </url>
   
   <url>
-    <loc>https://nihi0000.github.io/tags/%E5%BF%B5/</loc>
-    <lastmod>2023-11-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://nihi0000.github.io/tags/%E6%A2%A6/</loc>
     <lastmod>2023-11-24</lastmod>
     <changefreq>weekly</changefreq>
@@ -1079,7 +1072,7 @@
   </url>
   
   <url>
-    <loc>https://nihi0000.github.io/tags/debris/</loc>
+    <loc>https://nihi0000.github.io/tags/%E5%BF%B5/</loc>
     <lastmod>2023-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1087,6 +1080,13 @@
   
   <url>
     <loc>https://nihi0000.github.io/tags/la-vie/</loc>
+    <lastmod>2023-11-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://nihi0000.github.io/tags/debris/</loc>
     <lastmod>2023-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
